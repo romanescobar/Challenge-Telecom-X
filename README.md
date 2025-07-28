@@ -63,5 +63,5 @@ Los hallazgos clave incluyen:
     * `seaborn` para visualizaciones estadísticas avanzadas.
 
 ## 📞 Contacto
-
+e-mail: roman.escobar.p@gmail.com
 Para cualquier consulta o colaboración, no dudes en contactar.
